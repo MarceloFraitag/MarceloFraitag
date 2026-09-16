@@ -1,35 +1,18 @@
-# Olá, mundo! Eu sou o Marcelo Fraitag 👋
+# Marcelo Fraitag
 
-> **IT Support Analyst & System Administrator** | Apaixonado por tecnologia, infraestrutura em nuvem, automação e resolução de problemas complexos.
+Analista de Suporte de TI e Administrador de Sistemas, com foco em Microsoft Azure e Entra ID. Estudando desenvolvimento front-end e cibersegurança para unir a vivência com infraestrutura à construção de sistemas web.
 
-Atualmente atuo focado no universo de suporte de TI e administração de sistemas (com forte vivência no ecossistema Microsoft Azure e administração de ambientes corporativos). Além do meu dia a dia profissional, canalizo minha paixão por lógica e engenharia de software criando projetos práticos, estudando automação, e explorando o desenvolvimento em JavaScript e segurança da informação.
+**Stack:** JavaScript, Python, HTML/CSS, Azure, Git
 
----
+## Projetos
 
-## 🛠️ Tecnologias e Ferramentas
+- **[meu-portifolio](https://github.com/MarceloFraitag/meu-portifolio)** — portfólio pessoal em HTML, CSS e JavaScript puro
+- **[api_bancaria_fastapi](https://github.com/MarceloFraitag/api_bancaria_fastapi)** — API REST bancária construída com FastAPI
+- **[projeto_rpg_character_engine](https://github.com/MarceloFraitag/projeto_rpg_character_engine)** — motor de criação de personagens de RPG em JavaScript orientado a objetos
+- **[projeto_agente_trello](https://github.com/MarceloFraitag/projeto_agente_trello)** — automação integrada ao Trello
+- **[projeto-troca-wallpaper](https://github.com/MarceloFraitag/projeto-troca-wallpaper)** — script em Python para padronizar papéis de parede corporativos via GPO
+- **[desafio_heroi](https://github.com/MarceloFraitag/desafio_heroi)** — algoritmo de classificação de nível de herói em JavaScript
 
-* **Cloud & Infraestrutura:** Microsoft Azure, Entra ID (Azure AD), Administração de Sistemas
-* **Linguagens & Lógica:** JavaScript (ES6+), Node.js
-* **Segurança & Redes:** Fundamentos de Cybersecurity (EBAC), Troubleshooting avançado de hardware e software
-* **Controle de Versão:** Git & GitHub
+## Contato
 
----
-
-## 📂 Projetos em Destaque
-
-* **[projeto_rpg_character_engine](https://github.com/marcelofraitag/projeto_rpg_character_engine):** Um motor de simulação de RPG desenvolvido em JavaScript utilizando Programação Orientada a Objetos (POO), estruturado para gerenciar classes, atributos de combate, inventário e evolução de personagens.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelofraitag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofraitag&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Conecte-se comigo
-
-* **GitHub:** [@marcelofraitag](https://github.com/marcelofraitag)
+[LinkedIn](https://www.linkedin.com/in/marcelo-fraitag-014544242/)
